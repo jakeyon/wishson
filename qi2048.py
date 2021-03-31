@@ -1,4 +1,4 @@
-#2048game by hyj
+#2048game by hyj as learning python
 import random,sys,pygame
 from pygame.locals import*
                                
