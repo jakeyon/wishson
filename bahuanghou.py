@@ -40,4 +40,5 @@ def findqueen(row):
 
 
 
+
 findqueen(0)	
